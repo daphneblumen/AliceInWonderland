@@ -1,0 +1,7 @@
+{
+  "name": "eReaderIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
